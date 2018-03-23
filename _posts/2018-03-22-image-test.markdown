@@ -7,7 +7,7 @@ categories: jekyll update
 
 Checking now, how easy it is to include images into posts.
 
-![NonFlammable]({{ site.url }}{{ site.baseurl }}/assets/Nonflammable_Gas_Sticker.png){:class="img-responsive"}
+![NonFlammable]({{ site.url }}{{ site.baseurl }}/assets/img/Nonflammable_Gas_Sticker.png){:class="img-responsive"}
 
 Wonder if that worked.
 
