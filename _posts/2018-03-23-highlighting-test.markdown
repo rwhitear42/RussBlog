@@ -10,3 +10,10 @@ def foo
   puts 'foo'
 end
 {% endhighlight %}
+
+{% highlight json %}
+{
+  "Russ":"knows how to use",
+  "Colourful":"highlights"
+}
+{% endhighlight %}
