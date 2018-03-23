@@ -17,3 +17,14 @@ end
   "Colourful":"highlights"
 }
 {% endhighlight %}
+
+{% highlight java %}
+public Class Test {
+
+  private String russ = "Hello, world.";
+
+  public void getRuss() {
+    return russ;
+  }
+}
+{% endhighlight %}
